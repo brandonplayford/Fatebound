@@ -1,0 +1,37 @@
+3. Progression Systems (The RPG Layer)
+A. The Tattoo Inventory ("Skin Tetris")
+Your stats come from Tattoos, not invisible armor.
+UI: A grid representing your body parts (Arms, Chest, Back).
+The Puzzle: Tattoos have shapes (1x1 squares, L-shapes, large blocks). You have to fit them into the grid.
+Effect: Tattoos give passive buffs (e.g., "Bullets pierce 1 enemy," "+10% Move Speed").
+B. The Weapon Bench (Remnant Style)
+You don't find 1,000 guns. You find Blueprints and upgrade the ones you have.
+Tiers: White -> Green -> Blue -> Purple -> Gold.
+Materials: You need specific loot from specific biomes (e.g., "Scrap Iron" from Earth) to upgrade.
+4. The World (The MVP Scope)
+Do not try to build 7 worlds. Start with Two.
+Biome 1: The Rust-Harbor (Industrial/WWI)
+Theme: Mud, trenches, rusted metal, rain.
+Enemies:
+Shambler: Basic zombie (walks at you).
+Rifleman: Stationary enemy (shoots straight line).
+Grenadier: Throws AoE explosives.
+Boss: The Trench-Goliath (A zombie fused into a tank turret).
+Biome 2: The Sanguine Court (Victorian/Gothic)
+Theme: Cobblestones, gas lamps, fog, dark blue palette.
+Enemies:
+Vampire Thrall: Fast movement, melee only.
+Gargoyle: Flies over obstacles.
+Sniper: Long range laser sight.
+Boss: The Duelist (A rival hunter who uses Relic powers).
+5. The "Rogue" Twist: The Tarot System
+This is your variable difficulty system.
+You enter a procedurally generated floor (a series of connected combat rooms).
+Tarot Phase: At the start of the floor, 3 Tarot Cards appear. You pick one to modify the floor rules (Buffs or Curses).
+The Draw: 3 Cards appear on screen.
+Upright: A pure buff (e.g., "Attack Speed Up").
+Reversed: A curse with a reward (e.g., "Enemies move 2x fast, BUT Gold drops 2x").
+Combat: Clear rooms, get Loot (Ink/Materials), find the Boss.
+The Choice: After the Boss, you can:
+Extract: Go back to the Train to bank your loot/XP.
+Descend: Go to the next floor (Harder, better loot). If you die, you lose your unbanked loot.
